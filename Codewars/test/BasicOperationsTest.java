@@ -1,8 +1,7 @@
-import org.junit.Test;
-import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
-import org.junit.runners.JUnit4;
+
+import org.junit.Test;
 
 public class BasicOperationsTest {
 	  BasicOperations basicOps = new BasicOperations();
